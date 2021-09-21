@@ -5,7 +5,7 @@
 # What is this?
 
 Thos package brings functions that turns seconds into formatted time.
-``JS
+```JS
 shortTime(int)
 longTime(int)
 ```
