@@ -4,7 +4,7 @@
 
 # What is this?
 
-Thos package brings functions that turns seconds into formatted time.
+Thos package brings functions that convert seconds into formatted time. Use the seconds you want to convert as argument.
 ```JS
 shortTime(int)
 ```
