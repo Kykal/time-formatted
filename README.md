@@ -6,10 +6,10 @@
 
 Thos package brings functions that convert seconds into formatted time. Use the seconds you want to convert as argument.
 ```JS
-shortTime(int)
+shortTime(int seconds)
 ```
 ```JS
-longTime(int)
+longTime(int seconds)
 ```
 
 # Instalation
