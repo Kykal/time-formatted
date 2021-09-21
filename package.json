@@ -1,6 +1,6 @@
 {
   "name": "@kykal/time-formatted",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,9 @@
   },
   "author": "Alan Xavier Benavides Benavides",
   "license": "ISC",
+  "keywords": [
+    "seconds", "formatter", "format", "time"
+  ],
   "bugs": {
     "url": "https://github.com/Kykal/time-formatted/issues"
   },
