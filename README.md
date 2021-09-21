@@ -17,11 +17,11 @@ longTime(int seconds)
 ### shortTime(int seconds)
 ```JS
 console.log( shortTime(821) );
-   --> 13:41 
+// --> 13:41 
 ```
 ```JS
 console.log( shortTime(8286) );
-   --> 2:18:06
+// --> 2:18:06
 ```
 
 # Instalation
