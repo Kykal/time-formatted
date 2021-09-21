@@ -36,7 +36,7 @@ console.log( shortTime(3609) );
 
 # Instalation
 
-Using ``npm``
+Using ``npm``:
 ```SSH
 npm i @kykal/time-formatted
 ```
