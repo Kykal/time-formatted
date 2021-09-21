@@ -4,6 +4,12 @@
 
 # What is this?
 
+Thos package brings functions that turns seconds into formatted time.
+``JS
+shortTime(int)
+longTime(int)
+```
+
 # Instalation
 
 Using ``npm``
