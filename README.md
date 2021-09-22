@@ -26,11 +26,11 @@ console.log( shortTime(8286) );
 
 ### longTime(int seconds)
 ```JS
-console.log( shortTime(321) );
+console.log( longTime(321) );
 //Output: 00:05:21
 ```
 ```JS
-console.log( shortTime(3609) );
+console.log( longTime(3609) );
 //Output: 01:00:09 
 ```
 
