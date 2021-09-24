@@ -70,4 +70,7 @@ const longTime = (timestamp) => {
    return duration;
 };
 
-module.exports = [shortTime, longTime];
+module.exports = {
+   shortTime,
+   longTime
+};
