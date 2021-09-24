@@ -16,20 +16,22 @@ longTime(int seconds)
 
 ### shortTime(int seconds)
 ```JS
+const { shortTime } = require('@kykal/time-formatted')
+
 console.log( shortTime(821) );
 //Output: 13:41 
-```
-```JS
+
 console.log( shortTime(8286) );
 //Output: 2:18:06
 ```
 
 ### longTime(int seconds)
 ```JS
+const { longTime } = require('@kykal/time-formatted');
+
 console.log( longTime(321) );
 //Output: 00:05:21
-```
-```JS
+
 console.log( longTime(3609) );
 //Output: 01:00:09 
 ```
