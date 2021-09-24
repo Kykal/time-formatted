@@ -14,9 +14,20 @@ longTime(int seconds)
 
 ## Examples
 
+## Import functions
+```JS
+//Just shortTime() function
+const { shortTime } = require('@kykal/time-formatted')
+
+//Just longTime() function
+const { longTime } = require('@kykal/time-formatted');
+
+//All functions
+const <prefixName> = require('@kykal/time-formatted');
+```
+
 ### shortTime(int seconds)
 ```JS
-const { shortTime } = require('@kykal/time-formatted')
 
 console.log( shortTime(821) );
 //Output: 13:41 
@@ -27,18 +38,10 @@ console.log( shortTime(8286) );
 
 ### longTime(int seconds)
 ```JS
-const { longTime } = require('@kykal/time-formatted');
 
 console.log( longTime(321) );
 //Output: 00:05:21
 
 console.log( longTime(3609) );
 //Output: 01:00:09 
-```
-
-# Instalation
-
-Using ``npm``:
-```SSH
-npm i @kykal/time-formatted
 ```
