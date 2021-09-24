@@ -34,6 +34,9 @@ console.log( shortTime(821) );
 
 console.log( shortTime(8286) );
 //Output: 2:18:06
+
+console.log( <prefixName>.shortTime(342) );
+//Output: 
 ```
 
 ### longTime(int seconds)
