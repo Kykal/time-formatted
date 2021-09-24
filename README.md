@@ -1,8 +1,5 @@
-[<img align="right" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript_Site]
-[<img align="left" alt="Node.JS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][NodeJS_Site]
+[<img align="right" alt="Node.JS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][NodeJS_Site]
 
-
-[JavaScript_Site]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [NodeJS_Site]: https://nodejs.org/en/about/
 
 # What is this?
