@@ -12,9 +12,7 @@ shortTime(int seconds)
 longTime(int seconds)
 ```
 
-## Examples
-
-## Import functions
+## How to Import
 ```JS
 //Just shortTime() function
 const { shortTime } = require('@kykal/time-formatted')
@@ -25,6 +23,8 @@ const { longTime } = require('@kykal/time-formatted');
 //All functions
 const <prefixName> = require('@kykal/time-formatted');
 ```
+
+## Examples
 
 ### shortTime(int seconds)
 ```JS
